@@ -1,3 +1,6 @@
 [submodule "lib/lcontrols"]
 	path = lib/lcontrols
 	url = https://github.com/Nicolas-Constanty/Dnai.SubModules.Controls.git
+[submodule "lib/lfontawesome"]
+	path = lib/lfontawesome
+	url = https://github.com/Nicolas-Constanty/Dnai.SubModules.FontAwesome.git
