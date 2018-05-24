@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StringProperty.qml</file>
+        <file>EnumerationProperty.qml</file>
+        <file>EnumValue.qml</file>
+        <file>DropDownProperty.qml</file>
+        <file>IntProperty.qml</file>
+        <file>DoubleProperty.qml</file>
+        <file>BoolProperty.qml</file>
+    </qresource>
+</RCC>
